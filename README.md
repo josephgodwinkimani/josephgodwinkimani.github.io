@@ -1,1 +1,1 @@
-[Job Stack](https://stackshare.io/josephgodwinkimani/joseph-godwin-kimani)
+Skill set: Mainly PHP
