@@ -4,4 +4,4 @@
 <br />
 <br />
 
-I'm [Godwin Kimani!](https://kimani.gocho.live/), a Full Stack Web Developer based in Kenya.
+I'm [Godwin Kimani!](https://kimani.gocho.live/), a Full Stack Developer based in Kenya.
