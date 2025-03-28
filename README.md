@@ -6,4 +6,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephgodwinkimani&layout=compact&count_private=true&langs_count=5&exclude_repo=BIL2002-final,MemoryGame-MadeWithUnity&hide=html,python,shell)](https://github.com/josephgodwinkimani/github-readme-stats)
 
-I'm [Godwin Kimani!](https://kimani.gocho.live/), a Full Stack Developer based in Kenya.
+I'm [Godwin Kimani!](https://kimani.gocho.live/), a Full Stack Developer.
